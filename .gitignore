@@ -2,3 +2,6 @@ assets
 datasets/Visualization
 environment.yml
 .ipynb_checkpoints/Visualization-checkpoint.ipynb
+cast_info.csv
+persons.csv
+titles.csv
