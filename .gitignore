@@ -1,0 +1,15 @@
+assets
+datasets/Visualization
+environment.yml
+.ipynb_checkpoints/Visualization-checkpoint.ipynb
+cast_info.csv
+persons.csv
+titles.csv
+.ipynb_checkpoints
+Fast Exectuion Graph.png
+Fast Query Analysis.png
+Fast Query Statistics.png
+Slow Execution Graph.png
+Slow Query Analysis.png
+Slow Query Statistics.png
+Successful Alter.png
